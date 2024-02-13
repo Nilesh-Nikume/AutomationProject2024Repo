@@ -1448,3 +1448,39 @@ stomer is started
 2024-02-13 13:04:25,591 : INFO : Test_Login : test_user_login_002 : 37 : Entering Email 
 2024-02-13 13:04:26,187 : INFO : Test_Login : test_user_login_002 : 40 : Entering Password 
 2024-02-13 13:04:26,470 : INFO : Test_Login : test_user_login_002 : 43 : Click on login button 
+2024-02-13 13:37:35,871 : INFO : Test_Login : test_verify_url_001 : 18 : test_verify_url_001 is started  
+2024-02-13 13:37:35,875 : INFO : Test_Login : test_verify_url_001 : 20 : Opening browser and navigating to demo_nop_comp  
+2024-02-13 13:37:35,920 : INFO : Test_Login : test_verify_url_001 : 23 : Verify The Title page  
+2024-02-13 13:37:52,549 : INFO : Test_Login : test_user_login_002 : 37 : Entering Email 
+2024-02-13 13:37:53,467 : INFO : Test_Login : test_user_login_002 : 40 : Entering Password 
+2024-02-13 13:37:53,931 : INFO : Test_Login : test_user_login_002 : 43 : Click on login button 
+2024-02-13 13:38:17,671 : INFO : Test_AddCutomerClass : test_AddCustomer : 21 : Test_case test_AddCustomer is started 
+2024-02-13 13:38:17,671 : INFO : Test_AddCutomerClass : test_AddCustomer : 23 : Opening browser and navigating to demo_nop_com 
+2024-02-13 13:38:17,671 : INFO : Test_AddCutomerClass : test_AddCustomer : 30 : Entering Email 
+2024-02-13 13:38:18,960 : INFO : Test_AddCutomerClass : test_AddCustomer : 33 : Entering Password -  
+2024-02-13 13:38:19,275 : INFO : Test_AddCutomerClass : test_AddCustomer : 36 : Click on login button 
+2024-02-13 13:38:21,377 : INFO : Test_AddCutomerClass : test_AddCustomer : 39 : Add Customer is Started 
+2024-02-13 13:38:21,377 : INFO : Test_AddCutomerClass : test_AddCustomer : 42 : Click on Customer Menu 
+2024-02-13 13:38:23,883 : INFO : Test_AddCutomerClass : test_AddCustomer : 45 : Click on CustomerSub Menu 
+2024-02-13 13:38:25,520 : INFO : Test_AddCutomerClass : test_AddCustomer : 48 : Click on Add Customer Button 
+2024-02-13 13:38:27,133 : INFO : Test_AddCutomerClass : test_AddCustomer : 53 : Enter Random generated Email 
+2024-02-13 13:38:30,084 : INFO : Test_AddCutomerClass : test_AddCustomer : 56 : Enter Random generated Password 
+2024-02-13 13:38:30,317 : INFO : Test_AddCutomerClass : test_AddCustomer : 59 : Enter FirstName 
+2024-02-13 13:38:30,518 : INFO : Test_AddCutomerClass : test_AddCustomer : 62 : Enter LastName 
+2024-02-13 13:38:30,704 : INFO : Test_AddCutomerClass : test_AddCustomer : 65 : Select Gender 
+2024-02-13 13:38:30,865 : INFO : Test_AddCutomerClass : test_AddCustomer : 68 : Select DOB 
+2024-02-13 13:38:31,106 : INFO : Test_AddCutomerClass : test_AddCustomer : 71 : Select Company Name 
+2024-02-13 13:38:31,296 : INFO : Test_AddCutomerClass : test_AddCustomer : 74 : Click on is tax exempt CheckBox 
+2024-02-13 13:38:31,556 : INFO : Test_AddCutomerClass : test_AddCustomer : 77 : Click on NewsLetter 
+2024-02-13 13:38:31,731 : INFO : Test_AddCutomerClass : test_AddCustomer : 80 : Click on NewsLetter List 
+2024-02-13 13:38:31,904 : INFO : Test_AddCutomerClass : test_AddCustomer : 83 : Select Value for Manager of vendor 
+2024-02-13 13:38:32,152 : INFO : Test_AddCutomerClass : test_AddCustomer : 86 : Click on Active Checkbox 
+2024-02-13 13:38:32,289 : INFO : Test_AddCutomerClass : test_AddCustomer : 89 : Enter The Comment 
+2024-02-13 13:38:32,573 : INFO : Test_AddCutomerClass : test_AddCustomer : 92 : Click on Save Button 
+2024-02-13 13:38:34,052 : INFO : Test_AddCutomerClass : test_AddCustomer : 96 : Test_case test_AddCustomer is passed 
+2024-02-13 13:38:49,369 : INFO : Test_Login : test_verify_url_001 : 18 : test_verify_url_001 is started  
+2024-02-13 13:38:49,369 : INFO : Test_Login : test_verify_url_001 : 20 : Opening browser and navigating to demo_nop_comp  
+2024-02-13 13:38:49,536 : INFO : Test_Login : test_verify_url_001 : 23 : Verify The Title page  
+2024-02-13 13:39:05,402 : INFO : Test_Login : test_user_login_002 : 37 : Entering Email 
+2024-02-13 13:39:06,022 : INFO : Test_Login : test_user_login_002 : 40 : Entering Password 
+2024-02-13 13:39:06,286 : INFO : Test_Login : test_user_login_002 : 43 : Click on login button 

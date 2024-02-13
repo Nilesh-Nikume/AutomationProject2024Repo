@@ -1,0 +1,3 @@
+[32mINFO    [0m Test_Login:test_UserLogin.py:32 Entering Email
+[32mINFO    [0m Test_Login:test_UserLogin.py:35 Entering Password
+[32mINFO    [0m Test_Login:test_UserLogin.py:38 Click on login button

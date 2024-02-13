@@ -1,0 +1,3 @@
+[32mINFO    [0m Test_Login:test_UserLogin.py:18 test_verify_url_001 is started 
+[32mINFO    [0m Test_Login:test_UserLogin.py:20 Opening browser and navigating to demo_nop_comp 
+[32mINFO    [0m Test_Login:test_UserLogin.py:23 Verify The Title page

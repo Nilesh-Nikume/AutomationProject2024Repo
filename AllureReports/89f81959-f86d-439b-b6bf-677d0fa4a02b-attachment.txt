@@ -1,0 +1,24 @@
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:21 Test_case test_AddCustomer is started
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:23 Opening browser and navigating to demo_nop_com
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:30 Entering Email
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:33 Entering Password - 
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:36 Click on login button
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:39 Add Customer is Started
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:42 Click on Customer Menu
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:45 Click on CustomerSub Menu
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:48 Click on Add Customer Button
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:53 Enter Random generated Email
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:56 Enter Random generated Password
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:59 Enter FirstName
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:62 Enter LastName
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:65 Select Gender
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:68 Select DOB
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:71 Select Company Name
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:74 Click on is tax exempt CheckBox
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:77 Click on NewsLetter
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:80 Click on NewsLetter List
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:83 Select Value for Manager of vendor
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:86 Click on Active Checkbox
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:89 Enter The Comment
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:92 Click on Save Button
+[32mINFO    [0m Test_AddCutomerClass:test_AddCustomer.py:96 Test_case test_AddCustomer is passed
